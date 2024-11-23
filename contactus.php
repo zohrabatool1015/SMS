@@ -1522,7 +1522,7 @@ $conn->close();
         <a href="campus-functions.php">Events</a>
         <a href="contactus.php">Contact Us</a>
     </div>
-
+<!-- like here main yahan chnge krta ab main ic file ko save karta  -->
     <div class="contactusp">
         <h3>Contact Us</h3>
         <a href="tel:+923246237080">
